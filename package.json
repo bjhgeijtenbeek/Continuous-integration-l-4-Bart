@@ -1,0 +1,22 @@
+{
+  "name": "continuous-integration-l-4-bart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjhgeijtenbeek/Continuous-integration-l-4-Bart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjhgeijtenbeek/Continuous-integration-l-4-Bart/issues"
+  },
+  "homepage": "https://github.com/bjhgeijtenbeek/Continuous-integration-l-4-Bart#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
